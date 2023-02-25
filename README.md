@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+---
+
+### :man_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
 
 - 🔭 I’m currently working on Node.js MERN serveless apps
 - 🌱 I’m currently learning Golang
