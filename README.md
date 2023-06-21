@@ -19,9 +19,9 @@
 ### 👨🏽‍💻 About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
 
-- 🔭 I’m currently working on Node.js MERN serveless apps
+- 🔭 I’m currently working on Node.js MERN serverless apps
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on anything Python, Node.js or JS related
+- 👯 I’m looking to collaborate on anything Python, Node.js, or JS related
 - 🤔 I’m looking for help with anything in the MERN stack (React, React Native, Node.js, Electron.js MongoDB)
 - 💬 Ask me about Python and Node.js
 - 📫 How to reach me: joelofelectronics@gmail.com
